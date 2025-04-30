@@ -32,8 +32,5 @@ footer {
   height: 40px;
   background-color : black;
   color: white;
-  background-image: url("images/logo.png");
-  background-repeat: no-repeat;
-  background-size: 200px 50px;
-  background-position: center bottom;
+  background: black url("images/logo.png") no-repeat center bottom / 200px 50px;
 }
